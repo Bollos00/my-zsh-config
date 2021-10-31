@@ -1,0 +1,9 @@
+# List of random themes to be selected by ohmyzsh
+ZSH_THEME_RANDOM_CANDIDATES=(
+#    "agnoster"
+#    "aussiegeek"
+#    "jonathan"
+#    "nebirhos"
+    "powerlevel10k/powerlevel10k"
+)
+
